@@ -26,9 +26,12 @@
               "src/CNAME"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/katex/dist/katex.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/katex/dist/katex.min.js"
+            ]
           },
           "configurations": {
             "production": {
