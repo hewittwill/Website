@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+img.face {
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.polaroid {
+    width: 200px;
+    max-width: 80%;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.secret-blog {
+  font-size: 20px;
+  color: lightgrey;
+  margin: 10px;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+
+.secret-blog a {
+  text-decoration: none;
+  color: lightgrey;
+}
+
+.secret-blog a:hover {
+  color: black;
+}
+
+.container {
+    font-family: 'Montserrat', sans-serif;
+    background-color: white;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    display:inline-block;
+    color: lightgrey;
+    text-align: center;
+    padding: 16px;
+  }
+
+  li a {
+    text-decoration: none;
+    color: lightgrey;
+  }
+
+  li a:hover {
+    color: black;
+  }
+
+
+  @media screen and (max-width: 600px) {
+    .polaroid {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+
+  p {
+    text-align: center;
+  }
