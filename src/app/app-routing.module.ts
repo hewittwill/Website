@@ -8,7 +8,7 @@ import { PostComponent } from './post/post.component';
 const routes: Routes = [
   {path: '', component: HomeComponent},
   {path: 'blog', component: BlogComponent},
-  {path: 'post/:id', component: PostComponent},
+  {path: ':id', component: PostComponent},
   { path: '**', redirectTo: '/' }
 ];
 
