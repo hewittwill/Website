@@ -16,6 +16,7 @@ import { Subscription } from 'rxjs'
   p {
     width: 435px;
     text-align: justify;
+    font-size: 0.82em;
   }
 `],
 providers: [ MarkdownService ],

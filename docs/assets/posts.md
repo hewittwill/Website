@@ -1,4 +1,4 @@
-## Post List
+## Article List
 
-- [How we use JupyterHub for collaborative data science](/jh)
+- [Collaborative Data Science](/jh)
 
