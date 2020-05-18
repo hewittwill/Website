@@ -10,7 +10,7 @@ import { ViewEncapsulation } from '@angular/core';
   styles: [`
     .variable-binding,
     p {
-      width: 435px;
+      max-width: 435px;
       text-align: justify;
     }
   `],

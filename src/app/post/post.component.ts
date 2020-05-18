@@ -13,8 +13,8 @@ import { Subscription } from 'rxjs'
   styleUrls: ['./post.component.css'],
   styles: [`
   .variable-binding,
-  p {
-    width: 435px;
+p {
+    max-width: 435px;
     text-align: justify;
     font-size: 0.82em;
   }
