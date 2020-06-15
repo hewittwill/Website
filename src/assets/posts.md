@@ -2,5 +2,5 @@
 
 - [Collaborative Data Science](/jh)
 - [Mathematics](/math)
-- [GAN-Enhanced Echocardiogram Segmentation](/assets/files/gan-echo.pdf)
+- [GAN-Enhanced Echocardiogram Segmentation](/assets/files/echo-gan-final.pdf)
 
