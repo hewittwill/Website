@@ -1,6 +1,6 @@
 ## Article List
 
 - [Collaborative Data Science](/jh)
-- [Mathematatica](/math)
+- [Math](/math)
 - [GAN-Enhanced Echocardiogram Segmentation](/assets/files/echo-gan-final.pdf)
 
